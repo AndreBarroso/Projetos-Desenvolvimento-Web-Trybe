@@ -12,7 +12,7 @@ Na seção abaixo há um sumário onde está linkado cada um dos projetos. Ao ac
 
 # Sumário
 
-- [Boas vindas ao repositório de projetos!](#Boas vindas ao repositório de projetos desenvolvidos na Trybe!)
+- [Boas vindas ao repositório de projetos!](#Boas-vindas-ao-repositório-de-projetos-desenvolvidos-na-Trybe!)
 - [Habilidades](#boas)
 
 Fundamentos de desenvolvimento Web
