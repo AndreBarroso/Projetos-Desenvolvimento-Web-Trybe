@@ -1,7 +1,7 @@
 ### Projetos desenvolvidos
 
 Aqui se encontram todos os projetos que desenvolvi durante minha jornada na Trybe!
-<a id="boas-vindas"></a>
+
 # Boas vindas ao repositório de projetos desenvolvidos na Trybe!
 
 Cada projeto desenvolvido está salvo em um repositório diferente. Eles estão ordenados em ordem crescente de conclusão, do primeiro ao último e por módulo. Dessa forma pode ser observada a minha evolução como Desenvolvedor Web.
@@ -12,7 +12,7 @@ Na seção abaixo há um sumário onde está linkado cada um dos projetos. Ao ac
 
 # Sumário
 
-- [Boas vindas ao repositório de projetos!](#boas-vindas!)
+- [Boas vindas ao repositório de projetos!](#Boas vindas ao repositório de projetos desenvolvidos na Trybe!)
 - [Habilidades](#boas)
 
 Fundamentos de desenvolvimento Web
