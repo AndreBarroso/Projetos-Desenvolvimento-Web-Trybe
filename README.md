@@ -17,7 +17,7 @@ Na seção abaixo há um sumário onde está linkado cada um dos projetos. Ao ac
 
 ## Fundamentos de desenvolvimento Web
 
-1 - [Lessons Learned](###Lessons-Learned)
+1 - [Lessons Learned](#Lessons-Learned)
 
 2 - Playground Functions
 
