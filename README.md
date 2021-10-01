@@ -27,7 +27,7 @@ Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao a
 
 5 - [Facebook Sign-Up](#Facebook-Sign-Up)
 
-6 - [JavasScript Testes Unitários](#JavasScript Testes Unitários)
+6 - [JavasScript Testes Unitários](#JavasScript-Testes-Unitários)
 
 7 - [Zoo Functions](#Zoo-Functions)
 
