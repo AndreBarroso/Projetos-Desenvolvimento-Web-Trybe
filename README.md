@@ -304,11 +304,32 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 
 ---
 
+### App de Receitas
 
+**Habildades exercitadas**
+- Utilizar Redux para gerenciar estado
+- Utilizar a biblioteca React-Redux
+- Utilizar a Context API do React para gerenciar estado
+- Utilizar o React Hook useState
+- Utilizar o React Hook useContext
+- Utilizar o React Hook useEffect
+- Criar Hooks customizados
 
-18 - App de Receitas
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+---
 
 ## Desenvolvimento Back-End
+
+
+
+Utilizar Redux para gerenciar estado
+Utilizar a biblioteca React-Redux
+Utilizar a Context API do React para gerenciar estado
+Utilizar o React Hook useState
+Utilizar o React Hook useContext
+Utilizar o React Hook useEffect
+Criar Hooks customizados
 
 19 - All for one
 
