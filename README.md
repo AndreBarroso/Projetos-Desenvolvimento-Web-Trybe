@@ -57,23 +57,23 @@ Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao a
 
 ## Desenvolvimento Back-End
 
-19 - All for one
+19 - [All for one](#All-for-one)
 
-20 - Vacabulary Booster
+20 - [Vacabulary Booster](#Vacabulary-Booster)
 
-21 - One for all
+21 - [One for all](#One-for-all)
 
-22 - Data Flights
+22 - [Data Flights](#Data-Flights)
 
-23 - Commercer
+23 - [Commercer](#Commercer)
 
-24 - Agregations 
+24 - [Agregations](#Agregations)
 
-25 - Talk Manager
+25 - [Talk Manager](#Talk Manager)
 
-26 - Store Manager
+26 - [Store Manager](#Store Manager)
 
-27 - Cookmaster
+27 - [Cookmaster](#Cookmaster)
 
 ## Fundamentos de desenvolvimento Web
 ### Lessons Learned
