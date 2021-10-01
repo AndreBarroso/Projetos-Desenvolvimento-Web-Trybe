@@ -184,28 +184,127 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 
 ---
 
+### Movie Cards Library
+
+**Habildades exercitadas**
+- Saber a melhor forma para instalar um gerenciador de pacotes
+- Inicializar um projeto em **React**
+- Utilizar JSX no **React**
+- Utilizar o **ReactDOM.render** para renderizar elementos numa página web
+- Utilizar o `import` para usar código externo junto ao seu
+- Criar componentes **React** corretamente
+- Fazer uso de `props` corretamente
+- Fazer composição de componentes corretamente
+- Criar múltiplos componentes dinamicamente
+- Utilizar **PropTypes** para checar o tipo de uma prop no uso de um componente
+- Utilizar **PropTypes** para garantir a presença de props obrigatórias no uso de um componente
+- Utilizar **PropTypes** para checar que uma prop é um objeto de formato específico
+- Utilizar **PropTypes** para garantir que uma prop é um array com elementos de um determinado tipo
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+---
+
+### Movie Cards Stateful
+
+**Habildades exercitadas**
+- Ler o estado de um componente e usá-lo para alterar o que exibimos no browser
+- Inicializar um componente, dando a ele um estado pré-definido
+- Atualizar o estado de um componente
+- Capturar eventos utilizando a sintaxe do React
+- Criar formulários utilizando sintaxe JSX com as tags : `input`, `textarea`, `select`, `form`
+- Transmitir informações de componentes filhos para componentes pais via callbacks
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+---
+
+### Movie Cards Library CRUD
+
+**Habildades exercitadas**
+- Utilizar o componentDidMount para executar uma ação após o componente ser inserido no DOM;
+- Utilizar o shouldComponentUpdate para avaliar se uma atualização do componente deve ou não acontecer naquele momento;
+- Utilizar o componentDidUpdate para executar uma ação após o componente ser atualizado;
+- Utilizar o componentWillUnmount para realizar uma ação antes de o componente ser desmontado;
+- Utilizar o props.children para acessar os filhos de um componente React e interagir com eles;
+- Utilizar o componente BrowserRouter corretamente;
+- Criar links de navegação na aplicação com o componente Link ;
+- Criar rotas, mapeando o caminho da URL com o componente correspondente, via Route ;
+- Estruturar e organizar as rotas da sua aplicação com o componente Switch ;
+- Usar o componente Redirect pra alternar entre rotas.
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+---
+
+### FrontEnd Online Store
+
+**Habildades exercitadas**
+- Entender o que são Métodos Ágeis
+- Entender o que é Kanban
+- Entender o que é Scrum
+- Trabalhar em equipes utilizando Kanban ou Scrum de maneira eficaz
+- Praticar todas as habilidades desenvolvidas até agora no módulo de Front-End
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+---
+
+### Testes em React
+
+**Habildades exercitadas**
+- Utilizar os seletores (queries) da React-Testing-Library em testes automatizados.
+- Simular eventos com a React-Testing-Library em testes automatizados.
+- Testar fluxos lógicos assíncronos com a React-Testing-Library.
+- Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados.
+- Criar mocks de APIs utilizando fetch.
+- Testar inputs.
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+---
+
+### Trybe Wallet
+
+**Habildades exercitadas**
+- Criar um store Redux em aplicações React
+- Criar reducers no Redux em aplicações React
+- Criar actions no Redux em aplicações React
+- Criar dispatchers no Redux em aplicações React
+- Conectar Redux aos componentes React
+- Criar actions assíncronas na sua aplicação React que faz uso de Redux.
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+---
+
+### Jogo de Trivia
+
+**Habildades exercitadas**
+- Criar um store Redux em aplicações React
+- Criar reducers no Redux em aplicações React
+- Criar actions no Redux em aplicações React
+- Criar dispatchers no Redux em aplicações React
+- Conectar Redux aos componentes React
+- Criar actions assíncronas na sua aplicação React que faz uso de Redux.
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+---
+
+### StarWars Planets Search Context API Hooks
+
+**Habildades exercitadas**
+- Utilizar a _Context API_ do **React** para gerenciar estado.
+- Utilizar o _React Hook useState_;
+- Utilizar o _React Hook useContext_;
+- Utilizar o _React Hook useEffect_;
+- Criar _React Hooks_ customizados.
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+---
 
 
-
-
-
-
-
-10 - [Movie Cards Library](#Movie-Cards-Library)
-
-11 - Movie Cards Stateful
-
-12 - Movie Cards Library CRUD
-
-13 - FrontEnd Online Store
-
-14 - Testes em React
-
-15 - Trybe Wallet
-
-16 - Jogo de Trivia
-
-17 - StarWars Planets Search Context API Hooks
 
 18 - App de Receitas
 
