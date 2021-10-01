@@ -69,9 +69,9 @@ Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao a
 
 24 - [Agregations](#Agregations)
 
-25 - [Talk Manager](#Talk Manager)
+25 - [Talk Manager](#Talk-Manager)
 
-26 - [Store Manager](#Store Manager)
+26 - [Store Manager](#Store-Manager)
 
 27 - [Cookmaster](#Cookmaster)
 
