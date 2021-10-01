@@ -27,13 +27,13 @@ Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao a
 
 5 - [Facebook Sign-Up](#Facebook-Sign-Up)
 
-6 - JavasScript Testes Unitários
+6 - [JavasScript Testes Unitários](#JavasScript Testes Unitários)
 
-7 - Zoo Functions
+7 - [Zoo Functions](#Zoo-Functions)
 
-8 - Carrinho de Compras
+8 - [Carrinho de Compras](#Carrinho-de-Compras)
 
-9 - Jest Assícrono
+9 - [Jest Assícrono](#Jest-Assícrono)
 
 ## Desenvolvimento Front-End
 
@@ -135,7 +135,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
   * 
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
----
+----
 
 ### JavasScript Testes Unitários
 
@@ -147,6 +147,48 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
 ---
+
+### Zoo Functions
+
+**Habildades exercitadas**
+- Produzir código legível, conciso e expressivo utilizando as novas funcionalidades do ES6
+- Utilizar as _Higher Order Functions_ para manipular e criar arrays
+- Escolher a _Higher Order Function_ mais adequada para a obtenção de um resultado esperado
+- Aprender a usar de forma conjunta as _Higher Order Functions_
+- Interpretar testes unitários e produzir soluções que atendam a eles
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+---
+
+### Carrinho de Compras
+
+**Habildades exercitadas**
+- Fazer requisições a uma API *(Application Programming Interface)* do Mercado Livre;
+- Utilizar os seus conhecimentos sobre JavaScript, CSS e HTML;
+- Trabalhar com funções assíncronas;
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+---
+
+### Jest Assícrono
+
+**Habildades exercitadas**
+- Escrever testes para funções assíncronas;
+- Aplicar os seus conhecimentos acerca de testes utilizando o Jest;
+- "Mockar" funções;
+- "Mockar" APIs;
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+---
+
+
+
+
+
+
 
 
 
