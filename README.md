@@ -25,7 +25,7 @@ Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao a
 
 4 - [Arte com Pixels](Arte-com-Pixels)
 
-5 - Facebook Sign-Up
+5 - [Facebook Sign-Up](Facebook-Sign-Up)
 
 6 - Trybewarts
 
@@ -131,6 +131,18 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
   * Construir páginas que alteram o seu layout de acordo com a orientação da tela;
   * 
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+
+### Facebook Sign-Up
+
+**Habildades exercitadas**
+  * Criar formulários em HTML;
+  * Utilizar CSS Flexbox para criar layouts flexíveis;
+  * Criar regras CSS específicas para serem aplicadas a dispositivos móveis;
+  * Construir páginas que alteram o seu layout de acordo com a orientação da tela;
+  * 
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+---
 
 
 
