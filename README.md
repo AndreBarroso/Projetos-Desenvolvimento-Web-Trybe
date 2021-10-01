@@ -19,7 +19,7 @@ Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao a
 
 1 - [Lessons Learned](#Lessons-Learned)
 
-2 - Playground Functions
+2 - [Playground Functions](#Playground-Functions)
 
 3 - Lista de Tarefas
 
@@ -79,6 +79,14 @@ Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao a
 
 ## Fundamentos de desenvolvimento Web
 ### Lessons Learned
+
+**Habildades exercitadas**
+- HTML Semâtico
+- CSS
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+### Playground Functions
 
 **Habildades exercitadas**
 - HTML Semâtico
