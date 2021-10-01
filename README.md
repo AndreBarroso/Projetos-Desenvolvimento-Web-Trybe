@@ -6,7 +6,7 @@ Aqui se encontram todos os projetos que desenvolvi durante minha jornada na Tryb
 
 Cada projeto desenvolvido está salvo em um repositório diferente. Eles estão ordenados em ordem crescente de conclusão, do primeiro ao último e por módulo. Dessa forma pode ser observada a minha evolução como Desenvolvedor Web.
 
-Na seção abaixo há um sumário onde está linkado cada um dos projetos. Ao acessar um dos links você terá acesso a uma breve descrição das principais stacks aplicadas no projeto além do link em que levará ao seu repositório.
+Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao acessar um dos links você terá acesso a uma breve descrição das principais stacks aplicadas no projeto além do link em que levará ao seu repositório.
 
 ---
 
