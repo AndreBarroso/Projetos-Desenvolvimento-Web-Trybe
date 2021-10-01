@@ -84,8 +84,7 @@ Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao a
 - HTML Semâtico
 - CSS
 
-**Link do respositório**
-
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
 
 
