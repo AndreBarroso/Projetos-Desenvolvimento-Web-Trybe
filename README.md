@@ -15,9 +15,9 @@ Na seção abaixo há um sumário onde está linkado cada um dos projetos. Ao ac
 - [Boas vindas ao repositório de projetos!](#Boas-vindas-ao-repositório-de-projetos-desenvolvidos-na-Trybe)
 - [Habilidades](#boas)
 
-Fundamentos de desenvolvimento Web
+## Fundamentos de desenvolvimento Web
 
-1 - Lessons Learned
+1 - [Lessons Learned](###-Lessons-Learned)
 
 2 - Playground Functions
 
@@ -37,7 +37,7 @@ Fundamentos de desenvolvimento Web
 
 10 - Jest Assícrono
 
-Desenvolvimento Front-End
+## Desenvolvimento Front-End
 
 11 - Movie Cards Library
 
@@ -57,7 +57,7 @@ Desenvolvimento Front-End
 
 19 - App de Receitas
 
-Desenvolvimento Back-End
+## Desenvolvimento Back-End
 
 20 - All for one
 
@@ -76,6 +76,16 @@ Desenvolvimento Back-End
 27 - Store Manager
 
 28 - Cookmaster
+
+## Fundamentos de desenvolvimento Web
+### Lessons Learned
+
+**Habildades exercitadas**
+- HTML Semâtico
+- CSS
+
+**Link do respositório**
+
 
 
 
