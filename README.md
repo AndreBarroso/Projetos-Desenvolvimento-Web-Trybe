@@ -21,9 +21,9 @@ Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao a
 
 2 - [Playground Functions](#Playground-Functions)
 
-3 - Lista de Tarefas
+3 - [Lista de Tarefas](Lista-de-Tarefas)
 
-4 - Arte com Pixels
+4 - [Arte com Pixels](Arte-com-Pixels)
 
 5 - Facebook Sign-Up
 
@@ -89,8 +89,43 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 ### Playground Functions
 
 **Habildades exercitadas**
-- HTML Semâtico
-- CSS
+- Escrever códigos em JavaScript que usam variáveis e tipos primitivos;
+- Utilizar conceitos da linguagem como a tipagem dinâmica e operadores lógicos/aritméticos/de atribuição no seu código;
+- Criar códigos que usam estruturas condicionais, como o if/else .
+- Manipular arrays (listas);
+- Utilizar o comando for ;
+- Quebrar grandes problemas em pequenos;
+- Utilizar a lógica de programação na resolução de problemas.
+- Manipular objetos;
+- Utilizar o comando for/in ;
+- Utilizar funções para organizar e estruturar o seu código;
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+### Lista de Tarefas
+
+**Habildades exercitadas**
+- Manipular CSS
+- Manipular Javascript
+- Manipular o DOM
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+### Arte com Pixels
+
+**Habildades exercitadas**
+- Manipular CSS
+- Manipular Javascript
+- Manipular o DOM
+
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+
+### Arte com Pixels
+
+**Habildades exercitadas**
+- Manipular o DOM
+
+- Manipular o Javascript
 
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
