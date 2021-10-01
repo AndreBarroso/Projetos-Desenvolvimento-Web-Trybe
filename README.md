@@ -102,6 +102,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
+
 ### Lista de Tarefas
 
 **Habildades exercitadas**
@@ -111,22 +112,24 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
+
 ### Arte com Pixels
 
 **Habildades exercitadas**
 - Manipular CSS
 - Manipular Javascript
-- Manipular o DOM
 
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
-### Arte com Pixels
+
+### Facebook Sign-Up
 
 **Habildades exercitadas**
-- Manipular o DOM
-
-- Manipular o Javascript
-
+  * Criar formulários em HTML;
+  * Utilizar CSS Flexbox para criar layouts flexíveis;
+  * Criar regras CSS específicas para serem aplicadas a dispositivos móveis;
+  * Construir páginas que alteram o seu layout de acordo com a orientação da tela;
+  * 
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
 
