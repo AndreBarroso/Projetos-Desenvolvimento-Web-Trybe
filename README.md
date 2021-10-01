@@ -37,23 +37,23 @@ Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao a
 
 ## Desenvolvimento Front-End
 
-10 - Movie Cards Library
+10 - [Movie Cards Library](#Movie-Cards-Library)
 
-11 - Movie Cards Stateful
+11 - [Movie Cards Stateful](#Movie-Cards-Stateful)
 
-12 - Movie Cards Library CRUD
+12 - [Movie Cards Library CRUD](Movie-Cards-Library-CRUD)
 
-13 - FrontEnd Online Store
+13 - [FrontEnd Online Store](#FrontEnd-Online-Store)
 
-14 - Testes em React
+14 - [Testes em React](#Testes-em-React)
 
-15 - Trybe Wallet
+15 - [Trybe Wallet](#Trybe-Wallet)
 
-16 - Jogo de Trivia
+16 - [Jogo de Trivia](#Jogo-de-Trivia)
 
-17 - StarWars Planets Search Context API Hooks
+17 - [StarWars Planets Search Context API Hooks](#StarWars-Planets-Search-Context-API-Hooks)
 
-18 - App de Receitas
+18 - [App de Receitas](#App-de-Receitas)
 
 ## Desenvolvimento Back-End
 
@@ -183,6 +183,51 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
 ---
+
+
+
+
+
+
+
+
+10 - [Movie Cards Library](#Movie-Cards-Library)
+
+11 - Movie Cards Stateful
+
+12 - Movie Cards Library CRUD
+
+13 - FrontEnd Online Store
+
+14 - Testes em React
+
+15 - Trybe Wallet
+
+16 - Jogo de Trivia
+
+17 - StarWars Planets Search Context API Hooks
+
+18 - App de Receitas
+
+## Desenvolvimento Back-End
+
+19 - All for one
+
+20 - Vacabulary Booster
+
+21 - One for all
+
+22 - Data Flights
+
+23 - Commercer
+
+24 - Agregations 
+
+25 - Talk Manager
+
+26 - Store Manager
+
+27 - Cookmaster
 
 
 
