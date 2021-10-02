@@ -427,7 +427,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-m
 - Executar buscas complexas no banco mongoDB
 - Usar os operadores de aggregation para fazer uma pipeline  
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-mongodb-aggregations);
 
 ---
 
@@ -448,7 +448,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Entender a estrutura de uma aplicação Express e como organizar seu código;
 - Criar rotas e aplicar middlewares. 
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-mongodb-aggregations);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-talker-manager);
 
 ---
 
@@ -464,7 +464,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-m
 - Entender e aplicar os padrões REST;
 - Escrever assinaturas para APIs intuitivas e facilmente entendíveis.
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-store-manager);
 
 ---
 
@@ -479,6 +479,6 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Consultar arquivos do servidor através de uma api REST.
 - Realizar testes de integração
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-cookmaster);
 
 ---
