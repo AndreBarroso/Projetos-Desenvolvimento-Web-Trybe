@@ -201,7 +201,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Utilizar **PropTypes** para checar que uma prop é um objeto de formato específico
 - Utilizar **PropTypes** para garantir que uma prop é um array com elementos de um determinado tipo
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-movie-cards-library);
 
 ---
 
@@ -215,7 +215,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Criar formulários utilizando sintaxe JSX com as tags : `input`, `textarea`, `select`, `form`
 - Transmitir informações de componentes filhos para componentes pais via callbacks
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-movie-cards-library-stateful);
 
 ---
 
@@ -233,7 +233,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Estruturar e organizar as rotas da sua aplicação com o componente Switch ;
 - Usar o componente Redirect pra alternar entre rotas.
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-movie-card-library-crud);
 
 ---
 
@@ -245,7 +245,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Entender o que é Scrum
 - Trabalhar em equipes utilizando Kanban ou Scrum de maneira eficaz
 - Praticar todas as habilidades desenvolvidas até agora no módulo de Front-End
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-frontend-online-store);
 
 ---
 
@@ -259,7 +259,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Criar mocks de APIs utilizando fetch.
 - Testar inputs.
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-react-testing-library);
 
 ---
 
@@ -273,7 +273,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Conectar Redux aos componentes React
 - Criar actions assíncronas na sua aplicação React que faz uso de Redux.
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-trybewallet);
 
 ---
 
@@ -287,7 +287,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Conectar Redux aos componentes React
 - Criar actions assíncronas na sua aplicação React que faz uso de Redux.
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-trivia-react-redux);
 
 ---
 
@@ -300,7 +300,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Utilizar o _React Hook useEffect_;
 - Criar _React Hooks_ customizados.
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-starwars-planets-search);
 
 ---
 
@@ -315,7 +315,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Utilizar o React Hook useEffect
 - Criar Hooks customizados
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-recipes-app);
 
 ---
 
@@ -348,7 +348,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Atualizar dados em tabelas com `UPDATE`
 - Apagar dados em tabelas com `DELETE`
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-mysql-all-for-one);
 
 ---
 
