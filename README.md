@@ -144,7 +144,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - A partir de testes já implementados, escrever funções de forma que elas atendam aos testes propostos;
 - Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes (TDD).
 - 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-js-unit-tests);
 
 ---
 
@@ -157,7 +157,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Aprender a usar de forma conjunta as _Higher Order Functions_
 - Interpretar testes unitários e produzir soluções que atendam a eles
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-zoo-functions);
 
 ---
 
@@ -168,7 +168,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Utilizar os seus conhecimentos sobre JavaScript, CSS e HTML;
 - Trabalhar com funções assíncronas;
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-shopping-cart);
 
 ---
 
@@ -180,7 +180,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - "Mockar" funções;
 - "Mockar" APIs;
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-jest);
 
 ---
 
