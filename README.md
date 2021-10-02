@@ -100,7 +100,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Utilizar o comando for/in ;
 - Utilizar funções para organizar e estruturar o seu código;
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-playground-functions);
 
 ---
 
