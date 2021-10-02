@@ -32,7 +32,7 @@ Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao a
 
 8 - [Carrinho de Compras](#Carrinho-de-Compras)
 
-9 - [Jest Assícrono](#Jest-Assícrono)
+9 - [Jest Assíncrono](#Jest-Assíncrono)
 
 ## Desenvolvimento Front-End
 
@@ -171,7 +171,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 
 ---
 
-### Jest Assícrono
+### Jest Assíncrono
 
 **Habildades exercitadas**
 - Escrever testes para funções assíncronas;
