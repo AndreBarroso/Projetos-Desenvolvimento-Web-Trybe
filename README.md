@@ -399,31 +399,86 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 
 ---
 
+### Commerce
 
+**Habildades exercitadas**
+- Utilizar o método `updateOne()` e `updateMany()`
+- Utilizar os operadores `$set`, `$mul`, `$inc`, `$min`, `$max` e `$currentDate`
+- Renomear campos e remover campos
+- Incorporar dados aos documentos através de arrays
+- Utilizar os operadores `$pop`, `$pull` e `$push`
+- Utilizar o operador `$addToSet`
+- Utilizar os operadores `$each`, `$slice` e `$sort`
+- Utilizar o operador `$all` para filtrar documentos
+- Utilizar o operador `$elemMatch` para filtrar documentos
+- Utilizar o operador `$size` para filtrar documentos pelo tamanho de arrays
+- Utilizar o operador `$expr` para criar expressões de agregação
+- Utilizar expressões regulares e o operador `$regex` para buscar documentos
+- Utilizar o índice textual e o operador `$text`
+- Utilizar o operador `$mod`
 
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
+---
 
+### Agregations 
 
+**Habildades exercitadas**
+- Executar buscas complexas no banco mongoDB
+- Usar os operadores de aggregation para fazer uma pipeline  
 
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
+---
 
-22 - Data Flights
+### Talk Manager 
 
-23 - Commercer
+**Habildades exercitadas**
+- Realizar operações assíncronas utilizando callbacks;
+- Realizar operações assíncronas utilizando Promises;
+- Ler e escrever arquivos localmente com NodeJS;
+- Escrever seus próprios scripts que criam e consomem Promises;
+- Reescrever código que usa callbacks para que use Promises;
+- Realizar chamadas de funções de forma consciente;
+- Entender os conceitos básicos de como o JavaScript funciona;
+- Detectar e solucionar problemas no código de forma mais objetiva;
+- Entender a diferença entre execução síncrona e assíncrona;
+- Entender o que é o HTTP, o que é uma API e o que os dois têm a ver com o Express;
+- Escrever APIs utilizando Node e Express;
+- Entender a estrutura de uma aplicação Express e como organizar seu código;
+- Criar rotas e aplicar middlewares. 
 
-24 - Agregations 
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
-25 - Talk Manager
+---
 
-26 - Store Manager
+### Store Manager
 
-27 - Cookmaster
+**Habildades exercitadas**
+- Entender o funcionamento da camada de Model;
+- Delegar responsabilidades específicas para essa camada;
+- Conectar sua aplicação com diferentes bancos de dados;
+- Estruturar uma aplicação em camadas;
+- Delegar responsabilidades específicas para cada parte do seu app;
+- Melhorar manutenibilidade e reusabilidade do seu código;
+- Entender e aplicar os padrões REST;
+- Escrever assinaturas para APIs intuitivas e facilmente entendíveis.
 
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
+---
 
+### Cookmaster
 
+**Habildades exercitadas**
+- Entender o que há por dentro de um token de autenticação;
+- Gerar tokens a partir de informações como login e senha;
+- Autenticar rotas do Express, usando o token JWT;
+- Fazer upload de arquivos em APIs REST;
+- Salvar arquivos no servidor através de uma API REST;
+- Consultar arquivos do servidor através de uma api REST.
+- Realizar testes de integração
 
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
-
-
-
+---
