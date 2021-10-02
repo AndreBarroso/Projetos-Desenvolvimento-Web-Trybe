@@ -117,8 +117,8 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 ### Arte com Pixels
 
 **Habildades exercitadas**
-- Manipular CSS
-- Manipular Javascript
+- Manipulação dinâmica de CSS usando JavaScript
+- Manipulação do DOM
 
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-pixels-art);
 
