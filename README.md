@@ -111,7 +111,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Manipular Javascript
 - Manipular o DOM
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-todo-list);
 
 ---
 
@@ -121,7 +121,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Manipular CSS
 - Manipular Javascript
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-pixels-art);
 
 ---
 
@@ -133,7 +133,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
   * Criar regras CSS específicas para serem aplicadas a dispositivos móveis;
   * Construir páginas que alteram o seu layout de acordo com a orientação da tela;
   * 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-facebook-signup);
 
 ----
 
