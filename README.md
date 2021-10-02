@@ -106,9 +106,9 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 ### Lista de Tarefas
 
 **Habildades exercitadas**
-Manipulação dinâmica de CSS usando JavaScript
-Manipulação do DOM
-Armazenamento de dados do usuário em navegador
+- Manipulação dinâmica de CSS usando JavaScript
+- Manipulação do DOM
+- Armazenamento de dados do usuário em navegador
 
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-todo-list);
 
