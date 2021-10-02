@@ -131,7 +131,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
   * Utilizar CSS Flexbox para criar layouts flexíveis;
   * Criar regras CSS específicas para serem aplicadas a dispositivos móveis;
   * Construir páginas que alteram o seu layout de acordo com a orientação da tela;
-  * 
+   
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-facebook-signup);
 
 ----
@@ -142,7 +142,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Escrever testes unitários para funções utilizando o módulo Assert do NodeJS para verificar o correto funcionamento dessas funções;
 - A partir de testes já implementados, escrever funções de forma que elas atendam aos testes propostos;
 - Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes (TDD).
-- 
+
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-js-unit-tests);
 
 ---
