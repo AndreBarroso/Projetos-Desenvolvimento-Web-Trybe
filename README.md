@@ -367,7 +367,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-m
 - Criar queries mais eficientes através do EXISTS
 - Montar blocos de código **SQL** reutilizáveis com **STORED PROCEDURES** e **STORED FUNCTIONS**
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-mysql-vocabulary-booster);
 
 ---
 
@@ -382,7 +382,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Alterar tabelas existentes
 - Criar reações dinâmicas com TRIGGERS
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-mysql-one-for-all);
 
 ---
 
@@ -395,7 +395,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Contar documentos compreendidos nos filtros pedidos
 - Inserir documentos no banco
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-mongodb-dataflights);
 
 ---
 
@@ -417,7 +417,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Utilizar o índice textual e o operador `$text`
 - Utilizar o operador `$mod`
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-mongodb-commerce);
 
 ---
 
@@ -448,7 +448,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Entender a estrutura de uma aplicação Express e como organizar seu código;
 - Criar rotas e aplicar middlewares. 
 
-Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
+Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-mongodb-aggregations);
 
 ---
 
