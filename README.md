@@ -163,8 +163,8 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 ### Carrinho de Compras
 
 **Habildades exercitadas**
-- Fazer requisições a uma API *(Application Programming Interface)* do Mercado Livre;
-- Utilizar os seus conhecimentos sobre JavaScript, CSS e HTML;
+- Fazer requisições a uma API;
+- Utilizar conhecimentos sobre JavaScript, CSS e HTML;
 - Trabalhar com funções assíncronas;
 
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-shopping-cart);
@@ -175,7 +175,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 
 **Habildades exercitadas**
 - Escrever testes para funções assíncronas;
-- Aplicar os seus conhecimentos acerca de testes utilizando o Jest;
+- Aplicar conhecimentos acerca de testes utilizando o Jest;
 - "Mockar" funções;
 - "Mockar" APIs;
 
