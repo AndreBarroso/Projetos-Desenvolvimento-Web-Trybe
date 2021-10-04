@@ -81,6 +81,11 @@ Na seção abaixo, há um sumário onde está linkado cada um dos projetos. Ao a
 - HTML Semâtico
 - CSS
 
+**Obs**. Diferente dos demais respositórios, esse projeto foi forkardo a partir de uma branch de um respositório privado da Trybe. Então
+é possível que você não consiga o acessar pelo link a seguir. 
+
+Enquanto essa questão não é solucionada, fique à vontade para visitar os demais respositórios.
+
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-lessons-learned);
 
 ---
