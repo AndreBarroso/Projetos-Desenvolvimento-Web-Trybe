@@ -424,7 +424,10 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-m
 
 **Habildades exercitadas**
 - Executar buscas complexas no banco mongoDB
-- Usar os operadores de aggregation para fazer uma pipeline  
+- Usar os operadores de aggregation para fazer uma pipeline
+- Fazer projeções com dados correlacionados de diferentes coleções
+- Utilizar os operadores `$match`, `$limit` e `$project`, `$group`, `$unwind`, `$lookup`
+- Utilizar os operadores `$add`, `$ceil`,`$ceil`, `$round`, `$abs`,`$multiply`, `$divide`, `$addFileds`  
 
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-mongodb-aggregations);
 
