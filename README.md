@@ -248,7 +248,7 @@ Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-p
 - Entender o que é Kanban
 - Entender o que é Scrum
 - Trabalhar em equipes utilizando Kanban ou Scrum de maneira eficaz
-- Praticar todas as habilidades desenvolvidas até agora no módulo de Front-End
+- Praticar todas as habilidades desenvolvidas até então no módulo de Front-End 
 Acesse o repositório [clicando aqui](https://github.com/AndreBarroso/sd-010-a-project-frontend-online-store);
 
 ---
